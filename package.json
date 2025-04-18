@@ -1,0 +1,17 @@
+
+{
+  "name": "USAMA_SPAM_PAIR",
+  "version": "1.0.0",
+  "description": "WhatsApp pairing spam and JavaScript obfuscator",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "readline-sync": "^1.4.10",
+    "pino": "^8.15.0",
+    "chalk": "^4.1.2",
+    "javascript-obfuscator": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
